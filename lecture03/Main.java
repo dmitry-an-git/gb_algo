@@ -7,9 +7,9 @@ public class Main {
         lst.append(2);
         lst.append(3);
         lst.print();
-        lst.insert(4,lst.tail);
+        lst.insert(4);
         lst.print();
-        lst.insert(7,lst.head);
+        lst.insert(7);
         lst.print();
         lst.revert();
         lst.print();
