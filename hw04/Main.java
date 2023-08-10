@@ -184,7 +184,7 @@ class RedBlackTree{
     // 8 1000 root.left.left.left
     // some of them will be Null
 
-    public String getNode(int num) { // returns a string representation of a node at given posiiton index
+    private String getNode(int num) { // returns a string representation of a node at given posiiton index
          
         int[] binary = new int[5];
         int id = 4;
