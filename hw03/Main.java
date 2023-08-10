@@ -14,6 +14,7 @@ public class Main {
         lst.printBackwards();
         lst.revert();
         lst.print();
+        lst.printBackwards();
 
     }
 }

@@ -4,7 +4,7 @@
  * push +
  * pop +
  * contains +
- * revert +
+ * revert + -- this is the function for the homework
  * find +
  * print +
  * printBackwards +
